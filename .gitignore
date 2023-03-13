@@ -37,3 +37,14 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Mac files
+.DS_Store
+
+# files
+index.qmd
+Intro_ML.Rproj
+linear_regression.R
+logistic_regression.R
+single_variable_function.R
+two_variables_function.R
